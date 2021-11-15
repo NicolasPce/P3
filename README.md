@@ -5,6 +5,6 @@ En este proyecto buscamos la localización ideal para una empresa nueva, basada 
 
 Para ello de la base de datos de companies seleccionamos tres empresas con características similares a la nuestra.
 Con las tres localizaciones de las empresas, buscamos los tres lugares mencionados anteriormente.
-Para a continuación ponderar las distancias para obtener la mejor localización posible para nuestra empresa.
+Para a continuación ponderar las ubicaciones para obtener la mejor localización posible para nuestra empresa.
 
-Librerías utilizadas: mongo, pandas, Json, OS, pymongo.
+Librerías utilizadas: mongo, pandas, Json, OS, pymongo, gmaps, folium.
